@@ -1,6 +1,6 @@
 import { Box, Typography } from '@mui/material'
 import React, {useState, useEffect} from 'react'
-import { faculty1Request, publicRequest } from '../../../../client/src/utils/publicRequest'
+import { faculty1Request, publicRequest } from '../../utils/publicRequest'
 import { FacultyBarCharts, FacultyCharts, Sidebar, FacultyTables, FacultyTablesPart2, FacultyTablesPart3, FacultyTablesPart4, FacultyTablesPart5, FacultyTablesPart6 } from '../../components'
 import { datatable, datatable1, datatable2, datatable3, datatable4, datatable5, datatable6, data, data1, data2, data3, data4, data5, data6, data7, data8, data9, data10, data11, data12} from '../../utils/sampleData'
 
