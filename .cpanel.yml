@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/ppsconl2/repositories/sdd_server/
+    - /bin/cp index.html $DEPLOYPATH
